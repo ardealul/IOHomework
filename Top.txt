@@ -1,0 +1,14 @@
+ Best Selling Products:
+1 iPhone X-3units
+2 Macbook pro-2units
+3 Apple Watch-1units
+4 Beats by DR Dre-1units
+5 Amazon Giftcard-1units
+ Top Returning Customers:
+1 John-3orders
+2 Stuart-3orders
+3 Lisa-2orders
+ Top Customers:
+1 John-2299$
+2 Lisa-2000$
+3 Stuart-1209$
